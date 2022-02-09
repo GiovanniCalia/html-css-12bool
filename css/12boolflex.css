@@ -6,9 +6,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 90%;
 }
 
-/* COL SECTIONS*/
+
+/* COL SECTIONS */
 
 
 .col-1{
@@ -71,7 +73,9 @@
     max-width: calc((100% / 12) * 12);
 }
 
-/* COL OFFSET SECTIONS*/
+
+/* COL OFFSET SECTIONS */
+
 
 .col-offset-1{
     margin-left: calc((100% / 12) * 1);
