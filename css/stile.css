@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1400px;
+    margin: 2rem auto;
+    background-color: antiquewhite;
+}
+
+.internal-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: beige;
+
+}
