@@ -3,9 +3,14 @@
     border: 1px solid white;
     height: 2rem;
     flex: 0 0 auto;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* COL SECTIONS*/
+
 
 .col-1{
     width: calc((100% / 12) * 1);
